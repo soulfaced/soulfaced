@@ -1,6 +1,14 @@
 # 💫 About Me:
 👋 Sanchit Padwekar | Web Developer & Technology Enthusiast<br><br>💡 About Me: Web developer exploring technology, creating app clones, and integrating APIs like ChatGPT. Delving into machine learning for web applications. 🌐📱💻<br><br>🔭 Current Work: Building user-friendly app clones, enhancing them with ChatGPT API. 🚀📲<br><br>🌱 Learning & Growing: Mastering machine learning for innovative web solutions. 📚🌱<br><br>💬 Ask Me About: Web development, technology, and my projects. 🗣️💡<br><br>🎨 Hobbies & Interests: Swimming, painting, and poetry enthusiast. 🏊🎨📝
 
+<div align="right">
+  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
+       alt="GIF"
+       width="200"
+       style="border-radius: 10px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);"
+  >
+</div>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sanchit#4836) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100014537798291) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sanchit_05/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchit-padwekar-57909a216/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/padwekarsanchit/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sanchit-Padwekar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sanchit_padwekar) 
