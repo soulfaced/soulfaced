@@ -26,3 +26,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+#### Cards 
+<a href="https://cloud.appwrite.io/card/64c21c7c13af67d59902">
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64c21c7c13af67d59902" alt="Appwrite Cloud Card" />
+</a>
+
