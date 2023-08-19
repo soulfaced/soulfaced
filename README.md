@@ -1,7 +1,7 @@
 
 <div align = "left" width="50%">
 # 💫 About Me:
-👋 Sanchit Padwekar | Web Developer & Technology Enthusiast<br><br>💡 About Me: Web developer exploring technology, creating app clones, and integrating APIs like ChatGPT. Delving into machine learning for web applications. 🌐📱💻<br><br>🔭 Current Work: Building user-friendly app clones, enhancing them with ChatGPT API. 🚀📲<br><br>🌱 Learning & Growing: Mastering machine learning for innovative web solutions. 📚🌱<br><br>💬 Ask Me About: Web development, technology, and my projects. 🗣️💡<br><br>🎨 Hobbies & Interests: Swimming, painting,Literature and poetry enthusiast. 🏊🎨📝
+👋 Sanchit Padwekar | Web Developer & Technology Enthusiast<br><br>💡 About Me: Web developer exploring technology, creating app clones, and integrating APIs like ChatGPT. Delving into machine learning for web applications. 🌐📱<br><br>🔭 Current Work: Building user-friendly app clones, enhancing them with ChatGPT API. 🚀📲<br><br>🌱 Learning & Growing: Mastering machine learning for innovative web solutions. 📚🌱<br><br>💬 Ask Me About: Web development, technology, and my projects. 🗣️💡<br><br>🎨 Hobbies & Interests: Swimming, painting,Literature and poetry enthusiast. 🏊🎨📝
 </div>
 
 <div align="right">
